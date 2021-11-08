@@ -29,3 +29,4 @@
 /Users/nymtesx/SoftwareEntrepeneurship/SwoomBackEnd/SwoomBackEnd/obj/Debug/net5.0/ref/SwoomBackEnd.dll
 /Users/nymtesx/SoftwareEntrepeneurship/SwoomBackEnd/SwoomBackEnd/obj/Debug/net5.0/SwoomBackEnd.pdb
 /Users/nymtesx/SoftwareEntrepeneurship/SwoomBackEnd/SwoomBackEnd/obj/Debug/net5.0/SwoomBackEnd.genruntimeconfig.cache
+/Users/nymtesx/SoftwareEntrepeneurship/SwoomBackEnd/SwoomBackEnd/obj/Debug/net5.0/SwoomBackEnd.csproj.CopyComplete
